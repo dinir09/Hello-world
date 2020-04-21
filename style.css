@@ -1,0 +1,36 @@
+html{
+
+	border: 2px solid red;
+}
+
+body{
+
+	border: 2px solid yellow;
+}
+
+
+.container{
+	display: flex;
+	margin: 8px;
+	flex-wrap: wrap;
+	border: 2px solid blue;#4242429F
+	
+	
+	
+}
+
+
+.item{
+	background: #424242;
+	text-align: center;
+	color: #fff;
+	border: 2px solid green;
+
+	height: 110px;
+	width: 110px;
+
+	margin: 8px;
+	
+}
+
+
